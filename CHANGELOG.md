@@ -30,4 +30,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Comprehensive test suite
 - GitHub Actions CI/CD
 
-[0.1.0]: https://github.com/oboehmer/robotframework-radkit/releases/tag/v0.1.0
+[0.1.0]: https://github.com/Cisco-RADKit/robotframework-radkit/releases/tag/v0.1.0
