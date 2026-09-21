@@ -221,4 +221,3 @@ This project is licensed under the Mozilla Public License 2.0 - see the [LICENSE
 ## Authors
 
 - Oliver Boehmer ([@oboehmer](https://github.com/oboehmer))
-
