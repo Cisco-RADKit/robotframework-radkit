@@ -178,7 +178,7 @@ class RADKitLibrary(
         <li><a href="https://radkit.cisco.com/">RADKit Website</a></li>
         <li><a href="https://radkit.cisco.com/docs/">RADKit Documentation</a></li>
         <li><a href="https://robotframework.org/">Robot Framework Documentation</a></li>
-        <li><a href="https://github.com/oboehmer/robotframework-radkit">GitHub Repository</a></li>
+        <li><a href="https://github.com/Cisco-RADKit/robotframework-radkit">GitHub Repository</a></li>
     </ul>
     """
 

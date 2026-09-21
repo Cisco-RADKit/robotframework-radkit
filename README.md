@@ -161,7 +161,7 @@ ${parsed}=    RADKit Genie Parse    commands=show version    devices=${devices}
 ### Setup Development Environment
 
 ```bash
-git clone https://github.com/oboehmer/robotframework-radkit.git
+git clone https://github.com/Cisco-RADKit/robotframework-radkit.git
 cd robotframework-radkit
 
 # Install in development mode (includes genie dependencies)

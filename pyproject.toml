@@ -35,10 +35,10 @@ dependencies = [
 ]
 
 [project.urls]
-homepage = "https://github.com/oboehmer/robotframework-radkit"
-repository = "https://github.com/oboehmer/robotframework-radkit"
-documentation = "https://github.com/oboehmer/robotframework-radkit"
-issues = "https://github.com/oboehmer/robotframework-radkit/issues"
+homepage = "https://github.com/Cisco-RADKit/robotframework-radkit"
+repository = "https://github.com/Cisco-RADKit/robotframework-radkit"
+documentation = "https://github.com/Cisco-RADKit/robotframework-radkit"
+issues = "https://github.com/Cisco-RADKit/robotframework-radkit/issues"
 
 [project.optional-dependencies]
 genie = [
